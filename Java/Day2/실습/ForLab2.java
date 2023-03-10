@@ -1,5 +1,13 @@
 package day2;
-
+/*
+다음과 같은 결과가 출력되도록 구현한다.
+    9 : 홀수
+    8 : 짝수
+    7 : 홀수
+    6 : 짝수
+    5 : 홀수
+    4 : 짝수
+ */
 public class ForLab2 {
 
 	public static void main(String[] args) {
